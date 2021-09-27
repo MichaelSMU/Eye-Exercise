@@ -1,4 +1,4 @@
-This is the solution for the coding activity "Eye Exercise". 
+This is the solution for the coding activity "Eye Exercise". This exercise aims to create a web page with a pair of eyes on it that follows the mass movement.
 
 Please follow the steps to run the webpate:
 1. Download/clone the repository to a local directory
